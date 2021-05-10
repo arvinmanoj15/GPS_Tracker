@@ -1,4 +1,4 @@
-# ar
+# GPS_Tracker
 Send live location to your Firebase database
 Hardware: 
 ESP32
